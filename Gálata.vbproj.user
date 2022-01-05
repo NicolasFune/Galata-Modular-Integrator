@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\form_Cadastrar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\form_DadosFaltantes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\form_ManutençãoDoBancoDeDados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\form_Estoque.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\form_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\form_NovaEntrada_Consumível.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\form_NovaSaída.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\form_Nova_Classe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\form_Nova_Entrada.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\form_RegistrosEntradas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\form_RegistrosSaídas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\form_ProgressBar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

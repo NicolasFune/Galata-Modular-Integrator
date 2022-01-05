@@ -1,0 +1,132 @@
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.vbproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.AssemblyInfo.vb
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.vbproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_Login.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.vbproj.GenerateResource.cache
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\Gálata.exe
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\Gálata.deps.json
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\Gálata.runtimeconfig.json
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\Gálata.runtimeconfig.dev.json
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\Gálata.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\Gálata.pdb
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.pdb
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.genruntimeconfig.cache
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.Resources.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_Estoque.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.vbproj.CopyComplete
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_Nova_Entrada.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_Nova_Classe.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_ManutençãoDoBancoDeDados.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_NovaSaída.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_RegistrosSaídas.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_NovaEntrada_Consumível.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_DadosFaltantes.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_LayoutDisplay.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_RegistrosEntradas.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\bin\Debug\netcoreapp3.1\BD_GALATA_SQLITE.db
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_ProgressBar.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\Gálata.exe
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\Gálata.deps.json
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\Gálata.runtimeconfig.json
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\Gálata.runtimeconfig.dev.json
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\Gálata.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\Gálata.pdb
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.vbproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_DadosFaltantes.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_Estoque.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_Login.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_ManutençãoDoBancoDeDados.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_NovaEntrada_Consumível.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_NovaSaída.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_Nova_Classe.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_Nova_Entrada.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_ProgressBar.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_RegistrosEntradas.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_RegistrosSaídas.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.Resources.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.vbproj.GenerateResource.cache
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.AssemblyInfo.vb
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.vbproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.vbproj.CopyComplete
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.pdb
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.genruntimeconfig.cache
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.form_Cadastrar.resources
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\obj\Debug\netcoreapp3.1\Gálata.vbproj.ResolveComReference.cache
+C:\Users\nicol\Desktop\Criações\VB.NET\Projetos\Gálata Estoque\Gálata\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
